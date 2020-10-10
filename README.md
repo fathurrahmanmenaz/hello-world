@@ -7,4 +7,4 @@ I am a third-year Industrial Engineering student at Andalas University who loves
 
 Being focused on industrial management provide me a broad knowledge of both engineering and economic concepts. I also participated in several projects which invent remarkable products such as mobile app and an educational media.
 
-Passion for innovation, data science, and management systems 
+Passion for innovation, data science, and management systems.
